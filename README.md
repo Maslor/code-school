@@ -2,14 +2,14 @@
 A repository with programming challenges for begginers.
 
 ## How do I participate?
-  Create a repository which name follows this rule: "code-school-[your username]"
-  Then, send a pull request to the file in this repository that's referred to in the instructions of each challenge.
-  At the due date, I will accept the pull request of the version I consider as the best and will edit it as I see fit, making it the solution of that specific challenge.
+  Just fork this repo and add your code to the file that corresponds to the challenge. Then, just pull request!
 
 #Challenges
 
-### Challenge 1
-*Who are you?*
+### Challenge 1 - *Who are you?*
+
+**Challenge File**- bmi.py
+
 Write a python program that interacts with the user and asks for the following information:
 * Name
 * Age
