@@ -9,6 +9,7 @@ A repository with programming challenges for begginers.
 ### Challenge 1 - *Who are you?*
 
 **Challenge File**- bmi.py
+***Current bmi.py is the result of @Patcholito pull request which is working***
 
 Write a python program that interacts with the user and asks for the following information:
 * Name
