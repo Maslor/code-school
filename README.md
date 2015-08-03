@@ -35,7 +35,26 @@ Country Tags that will be used in this challenge:
 * DE - Germany
 
 **Example interaction:**
-
+    
+    >>What's your name?
+    John
+    >>How old are you?
+    16
+    >>Where are you from?
+    France
+    >>What's your gender?(m/f)
+    m
+    >>How tall are you?
+    170
+    >>How much do you weigh?
+    67
+    >>Hello John!
+    >>You have been registered and this is your id: FR16MJOHN
+    >>Your current Body Mass Index is: 23
+    >>You are within the healthy range!
+    
+##### *Additional Information*
+Check https://en.wikipedia.org/wiki/Body_mass_index for the BMI table.
 
 
 
