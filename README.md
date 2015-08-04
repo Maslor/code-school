@@ -13,3 +13,7 @@ A repository with programming challenges for begginers.
 ***Current bmi.py is the result of @Patcholito pull request which is working***
 
 *Instructions README for this challenge* : https://github.com/Maslor/code-school/blob/master/challenge1/README.md
+
+### Challenge 2 - *2nd Degree**
+
+*Instructions README for this challenge* : https://github.com/Maslor/code-school/blob/master/challenge2/README.md
