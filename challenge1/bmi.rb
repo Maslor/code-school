@@ -1,4 +1,5 @@
 #ruby solution for Challenge 1
+#@Maslor
 
 puts "What's your name?"
 name = gets.chomp
