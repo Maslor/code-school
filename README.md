@@ -16,4 +16,14 @@ A repository with programming challenges for begginers.
 
 ### Challenge 2 - *2nd Degree**
 
+**Challenge File** - 2degree.py
+
+***Current file is the result of @Patcholito pull request which is working***
+
 *Instructions README for this challenge* : https://github.com/Maslor/code-school/blob/master/challenge2/README.md
+
+### Challenge 3 - *What year is it?"
+
+**Challenge File**- byear.py
+
+*Instructions README for this challenge* : https://github.com/Maslor/code-school/blob/master/challenge3/README.md
