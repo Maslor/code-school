@@ -1,3 +1,7 @@
+'''BMI calculator with ID generator
+   Author: Diogo @Patcholito Freire 
+   Date: 03/08/2015'''
+
 name = input  ("What's your name?")
 age = input ("How old are you?")
 country = input ("Where are you from?")
