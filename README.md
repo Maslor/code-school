@@ -14,7 +14,7 @@ A repository with programming challenges for begginers.
 
 *Instructions README for this challenge* : https://github.com/Maslor/code-school/blob/master/challenge1/README.md
 
-### Challenge 2 - *2nd Degree**
+### Challenge 2 - *2nd Degree*
 
 **Challenge File** - 2degree.py
 
@@ -22,7 +22,7 @@ A repository with programming challenges for begginers.
 
 *Instructions README for this challenge* : https://github.com/Maslor/code-school/blob/master/challenge2/README.md
 
-### Challenge 3 - *What year is it?"
+### Challenge 3 - *What year is it?*
 
 **Challenge File**- byear.py
 
