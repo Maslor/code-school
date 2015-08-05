@@ -1,6 +1,6 @@
 ### Challenge 2 - *What year is it?*
 
-**Challenge File**- byear.py
+**Challenge File**- lyear.py
 
 Write a python program that asks the user for a year and tells the user if it's a leap year or not. Here is an example interaction:
 
