@@ -21,3 +21,7 @@ A repository with programming challenges for begginers.
 ### Challenge 3 - *What year is it?*
 
 *Instructions README for this challenge* : https://github.com/Maslor/code-school/blob/master/challenge3/README.md
+
+### Challenge 3 - *Times Table*
+
+*Instructions README for this challenge* : https://github.com/Maslor/code-school/blob/master/challenge4/README.md
